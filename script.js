@@ -1,7 +1,7 @@
-const apiKey = "ttuu993e7724453ebad4";
-const senderId = "RRSMSG";
-const message = "Dear Customer  Your order is out for delivery. Kindly keep the payment amount of Rs {#var#} ready. Thanks  RP";
-const number = "919977890004"; // MULTIPLE NUMBER VARIABLES PUT HERE...!
+const apiKey = "YourAPIkey";
+const senderId = "TESTIN";
+const message = "YOUR MESSAGE HERE";
+const number = "91989xxxxxxx"; // MULTIPLE NUMBER VARIABLES PUT HERE...!
 
 const encodedMessage = encodeURIComponent(message); // encode the message content
 
